@@ -30,7 +30,7 @@ module.exports = function (url, callbackFunction)
 
   this.stateChange = function (object) {
     if (this.request.readyState==4)
-      this.callbackFunction(this.request.responseText);
+      this.callbackFunction(this.request);
   };
 
   this.getRequest = function() {
