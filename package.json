@@ -1,0 +1,19 @@
+{
+  "name": "node-microajax",
+  "description": "npm port of microajax",
+  "keywords": [
+    "ajax",
+    "microajax"
+  ],
+  "version": "1.0.0",
+  "author": "Nathan Rashleigh <nrashleigh@smokestack.io> (http://smokestack.io/)",
+  "contributors": [
+    "Nathan Rashleigh <nrashleigh@smokestack.io>",
+    "Stefan Lange-Hegermann <BlackMacde@gmail.com>"
+  ],
+  "main": "microajax.min.js",
+  "engines": {
+    "node": "~0.10",
+    "npm": "*"
+  }
+}
